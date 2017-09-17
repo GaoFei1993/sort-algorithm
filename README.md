@@ -8,6 +8,10 @@
 具体的排序分类如下图所示：  
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505620358171&di=b61c19de7ab3f822c826b9895184bd7f&imgtype=0&src=http%3A%2F%2Fimages2015.cnblogs.com%2Fblog%2F926487%2F201607%2F926487-20160708104852014-1203539647.png)  
 
+#
+
+
 # 总结
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505620282613&di=2325e5618654ac458e8105f41ca1bc2c&imgtype=0&src=http%3A%2F%2Fimages.cnitblog.com%2Fblog%2F122240%2F201304%2F15152641-a73bd3dafe354cb8ab2108366ba53974.png)   
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505620282613&di=2325e5618654ac458e8105f41ca1bc2c&imgtype=0&src=http%3A%2F%2Fimages.cnitblog.com%2Fblog%2F122240%2F201304%2F15152641-a73bd3dafe354cb8ab2108366ba53974.png)  
 
